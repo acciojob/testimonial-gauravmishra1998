@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+main{background-color:#f5f5f5;
+	  padding:30px;}
+.box1{border:1px solid gray;
+	 background-color:white;}
+h2{padding:10px;
+	border:10px;
+   background-color: #f5f5f5;}
+.para1{text-style:normal;
+	  padding:10px;
+	  border:10px;
+		  }
+.para2{text-align:right;
+	  font-style:italic;}
+
