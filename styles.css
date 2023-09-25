@@ -18,11 +18,10 @@ body {
 
 .text {
     font-size: 11px;
-	text-align: 
+	text-align:right;
 }
 
 .author {
     text-align: right;
     font-style: italic;
-    
-}
+    }
